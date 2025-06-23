@@ -1,0 +1,4 @@
+/workspaces/currency-converter-java/conversor-moedas-java/src/main/java/data/TaxaCambioAPIClient.java
+/workspaces/currency-converter-java/conversor-moedas-java/src/main/java/model/TaxaCambio.java
+/workspaces/currency-converter-java/conversor-moedas-java/src/main/java/service/ConversorMoedasService.java
+/workspaces/currency-converter-java/conversor-moedas-java/src/main/java/presentation/ConversorMoedasApp.java

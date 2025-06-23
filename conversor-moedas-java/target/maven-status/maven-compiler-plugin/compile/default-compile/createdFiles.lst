@@ -1,0 +1,4 @@
+presentation/ConversorMoedasApp.class
+model/TaxaCambio.class
+data/TaxaCambioAPIClient.class
+service/ConversorMoedasService.class
